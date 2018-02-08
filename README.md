@@ -51,3 +51,5 @@ I know right?
 ## Contributing
 
 You don't.
+
+[### Link to Code of Conduct]()
